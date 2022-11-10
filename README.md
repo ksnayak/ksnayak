@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ksnayak
+- 👋 Hi, I’m Sagar Nayak
 - 👀 I’m interested in React native development
 - 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on ...
